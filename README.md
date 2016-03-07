@@ -1,0 +1,1 @@
+# testJavaLicenceCC0
